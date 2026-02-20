@@ -1,1 +1,1 @@
-SmartCanteen
+Smart-Canteen-Project
